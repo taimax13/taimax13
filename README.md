@@ -38,7 +38,6 @@ I’m passionate about **explainable AI**, **model observability**, and designin
 ### 💡 Featured Projects
 - 🔒 [**Chagu Protocol**](https://github.com/taimax13/Chagu) — Secure data transformation and AI shielding framework  
 - 🛰 [**SARAD**](https://github.com/taimax13/SARAD) — Synthetic Aperture Radar anomaly detection using deep autoencoders  
-- 🤖 [**AI Code Origin Detector**](https://github.com/taimax13/codeCheker) — Explainable classifier for AI vs human-written code  
 
 ---
 
